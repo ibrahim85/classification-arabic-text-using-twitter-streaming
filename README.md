@@ -1,4 +1,4 @@
-<h1>the goal of this project is to extract data in Arabic with twitter streaming api and then create machine learning models that allow a text to be classified into  sport, religion, economy, art, politic categories </h1>
+<h1>the goal of this project is to extract arabic tweets data with twitter streaming api and then create machine learning models that allow a text to be classified into  sport, religion, economy, art, politic categories </h1>
 
 
 <h2>twitter data is extracted between 2020/10/08 and 2020/10/13</h2>
